@@ -9,6 +9,26 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pooji303](https://github.com/Pooji303)
 
+- I am a data enthusiast working on various machine learning and data analysis projects. Here are some of the projects I've worked on:
+
+🚀 Projects
+
+1️⃣ Heart Disease Prediction 🏥
+
+A machine learning model to predict heart disease based on patient health records. Utilized data preprocessing, feature engineering, and model training with several models.
+
+2️⃣ Blood Donation Analysis 🩸
+
+An analytical project focused on predicting blood donation behavior using historical donation records, aiming to assist blood banks in maintaining sufficient supply.
+
+3️⃣ Texas Salary Analysis 💰
+
+An in-depth analysis of salary trends in Texas, focusing on identifying patterns, disparities, and influential factors affecting salary distributions.
+
+4️⃣ Teaching Assistance Performance 📚
+
+A study analyzing teaching performance based on various instructor and course attributes to enhance teaching quality and student engagement.
+
 - 💬 Ask me about **Machine Learning, Feature Engineering, Data preprocessing**
 
 - 📫 How to reach me **poojipoojitha705@gmail.com**
