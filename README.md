@@ -27,6 +27,12 @@ In-depth salary trend analysis in Texas using data wrangling, visual analytics, 
 ### 📚 Teaching Assistance Performance  
 A study analyzing instructor performance based on course attributes, identifying key patterns to improve student outcomes and teaching quality.
 
+## 📉 No-Churn Telecom – Churn Prediction  
+A machine learning project to identify telecom customers likely to churn, enabling targeted retention strategies and improving customer service effectiveness.
+
+## 👨‍💼 Employee Performance Analysis  
+An analytical study on workforce performance to uncover key productivity drivers and build predictive models for smarter hiring and employee development.
+
 ---
 
 ## 💻 SQL & Power BI Projects
